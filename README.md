@@ -1,0 +1,2 @@
+# TUTORIAL
+Beginner friendly Django
